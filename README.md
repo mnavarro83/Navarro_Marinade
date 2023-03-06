@@ -3,6 +3,8 @@ Ancient family secret handed down for generations and now open sourced.
 
 Here it is friends, the "ancient family secret" is to freeze it while marinating. The longer you freeze it the better. This isn't required but it really makes the marinade pop and softens the meat. 3 days is the recommended minimum for freezing. Suggested cut of meat is "tri-tip roast" or as it is called in Mexican "picanya"; or in Spanish "punta trasera", but it works with any meat really. Even good on most non-beef. Mexicans WILL look at you funny if you call it "punta trasera" as this is an insulting term to them.
 
+The asumption is that one is grilling this. This marinade really does need a grill to shine.
+
 Either way; ingredients:
 
 - 1 1/2 cups of oil. I usually use canola but any vegetable oil will do.
