@@ -31,4 +31,6 @@ Either way; ingredients:
 
 - 2 tablespoons dry mustard, at the very least. Do not skimp on the mustard, can't really have too much. If you taste it and it feels like it is missing something it will either be mustard or salt.
 
-This is the base recepie and never disappoints. There is no "method" just mix everything together. A large blender is useful. I have in the past, singly or together, added beer (IPA or stout), ginger (fresh) and Brucken Steak Seasoning (https://www.bruckenfoods.com/) with mild to middling results. Makes it a bit different and interesting but I don't consider it part of the base recepie. 
+This is the base recepie and it never disappoints. There is no "method" just mix everything together. A large blender is useful. I have in the past, singly or together, added beer (IPA or stout), ginger (fresh) and Brucken Steak Seasoning (https://www.bruckenfoods.com/) with mild to middling results. These variations make the base recepie a bit different and interesting but I don't consider these changes a partof the base recepie. 
+
+Please fell free to submit an issue or a PR request if you find any particulars to be amiss or in need of improvment. 
